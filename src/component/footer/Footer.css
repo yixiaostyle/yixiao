@@ -1,0 +1,20 @@
+.footer{
+	position:fixed;
+	background:#c6c6c6;
+	display:flex;
+	align-items:center;
+	width:100%;
+	height:98px;
+	bottom:0;
+}
+.footer >div{
+	flex:1;
+	text-align:center;
+}
+.footer >div img{
+	background:#fff;
+}
+.footer >div span{
+	display:block;
+	color:#fff;
+}

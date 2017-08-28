@@ -1,0 +1,79 @@
+.licai .headers{
+	height:44px;
+	background:#c90000;
+	line-height:44px;
+	position:relative;
+	color:#fff;
+}
+.licai .headers span{
+	position:absolute;
+	top:0;
+	right:0;
+}
+.licai .headers h2{
+	display:block;
+	text-align:center;
+}
+.licai .dates{
+	width:100%;
+	height:10.075rem;
+	background:#e3e3e3;
+	text-align:center;
+}
+.licai .tab{
+	display:flex;
+}
+.licai .tab > p{
+	flex:1;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	font-size:0.575rem;
+	color:#7e7e7e;
+}
+.licai img[src="./image/zhizhen.jpg"]{
+	width:11.9rem;
+}
+.licai img[src="./image/jin.jpg"]{
+	width:1.7rem;
+	margin-right:0.35rem;
+}
+.licai img[src="./image/week.jpg"]{
+	width:1.275rem;
+	margin-right:0.35rem;
+}
+.licai .tab > p span{
+	color:#fe0002;
+}
+.licai .list{
+	position:relative;
+}
+.licai .list p{
+	display:flex;
+}
+.licai .list p span{
+	color:#fe0000;
+	font-size:1.95rem;
+	flex:1;
+}
+.licai .list p span:first-child{
+	margin-left:0.9rem;
+}
+.licai .list p span:last-child{
+	margin-left:
+}
+.licai .list p span ff{
+	color:#94a9a4;
+	font-size:0.6rem;
+}
+.licai .list button{
+	position:absolute;
+	right:0.775rem;
+	top:2rem;
+	width:4.275rem;
+	height:1.675rem;
+	border:0;
+	background:#fe623c;
+	font-size:0.775rem;
+	color:#fff;
+}

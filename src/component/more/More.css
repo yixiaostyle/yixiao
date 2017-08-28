@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding:0;
+}
+.headers{
+	height:44px;
+	background:#c90000;
+	line-height:44px;
+	position:relative;
+	color:#fff;
+}
+.headers span{
+	position:absolute;
+	top:0;
+	right:0;
+}
+.headers h2{
+	display:block;
+	text-align:center;
+}
+.gengduo {
+	background:#e3e3e3;
+}
+.gengduo > div{
+	background:#fff;
+}
